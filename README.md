@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/vikasyadav1307/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/vikasyadav1307/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/vikasyadav1307/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/vikasyadav1307/LeetCode-Solutions/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
